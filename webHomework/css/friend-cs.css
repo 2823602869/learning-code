@@ -1,0 +1,20 @@
+	@charset "utf-8";
+	@charset "GBK";
+html,body{
+	background-image: url(https://oss.ataoli.cn/uploads/2020/06/gaitu.jpg);
+	margin:0 auto;
+	padding:0 auto;
+	background-attachment: fixed;/*背景和样式分离*/
+
+}
+.first{
+    font-family: "Comic Sans MS";
+	opacity:0.7;/*设置first-1透明属性*/
+    height:440px;
+    padding:20px;
+    margin-right:30px;
+}
+.box{
+    padding:20px;
+    margin-right:30px;
+}
