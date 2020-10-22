@@ -1,8 +1,7 @@
-# JavaTraining
+# learning-code
 
 /**
- * @program: JavaTraining
- * @description 学生管理系统登陆页面
+ * @program: learning-code
  * @author: taoli
  * @create: 2020-10-21 10:22
  **/
